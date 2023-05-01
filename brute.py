@@ -35,7 +35,7 @@ for password_length in range(password_length[0], password_length[1] + 1):       
         if digesting == hash_str:                                                    # then we are compare it with entered hash-code
             print(f"Your password is: {password}")                                   # if we find equal values, then enter the password and stop the selection
             break
-        else:                                                                        # i add this srings only to be sure that the code is brute force
+        else:                                                                        # i add this strings only to be sure that the code is brute force
             print(password)                                                          # and so i can see at what stage brute forcing is
 
 # you can try to write combinations in txt file, but remember: you'll need a looooooooot of memory
