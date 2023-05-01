@@ -1,0 +1,25 @@
+Hello!
+This is my first project on git, so maybe it's a little rude or somethnig, but i'm proud of it.
+I hope it will help you to solve your problems.
+
+How is it works:
+  first:
+    you need to choose the length, of hashed password
+  second:
+    you need to choose the kind of symbols, used in the pass
+    
+    ****i hope i dont need to explain algorithms of choose****
+    
+    then you enter your hash
+    
+    the programm will create every single combination of every single choosen symbol
+    then passwords will be hashed
+    the hashed password cimparing with your entered hash and then there is two paths:
+        1.they will be equal, and horey, we found your pass!
+        
+        2.brute force will continue
+        
+        
+        it's not very fast, but if you know how to boost this code - do it.
+        
+        UwU
